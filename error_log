@@ -1,0 +1,4 @@
+[27-Jun-2022 16:11:10 UTC] PHP Parse error:  syntax error, unexpected '.', expecting ',' or ';' in /home/miliyani/.cphorde/ci4/app/Config/Paths.php on line 28
+[27-Jun-2022 16:12:02 UTC] PHP Parse error:  syntax error, unexpected '.', expecting ',' or ';' in /home/miliyani/.cphorde/ci4/app/Config/Paths.php on line 28
+[22-Jul-2022 18:04:31 Asia/Jakarta] PHP Fatal error:  Cannot declare class App\Controllers\Buy, because the name is already in use in /home/igamessx/.cphorde/ci4/app/Views/Buy/index.php on line 5
+[22-Jul-2022 18:06:34 Asia/Jakarta] PHP Fatal error:  Cannot declare class App\Controllers\Buy, because the name is already in use in /home/igamessx/.cphorde/ci4/app/Views/Buy/index.php on line 5
